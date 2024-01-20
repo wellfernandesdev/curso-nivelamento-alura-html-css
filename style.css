@@ -2,6 +2,7 @@ body {
     background-color: #000000;
     color: #f6f6f6;
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 main {
     display: flex;
@@ -11,7 +12,7 @@ main {
 }
 
 strong {
-    color: #22D4FD;
+    color: #1dc8ef;
 }
 h1 {
 font-size: 36px ;
@@ -52,15 +53,12 @@ a.github {
     background-color: #22D4FD;
     color: #000000ef;
     padding: 20px 37px;
-    
-   
-    
 }
 figcaption {
     margin-left: 90%;
 }
 footer {
-    text-align: center; 
+    text-align: center;
     color: #22D4FD;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-top: -10%;
